@@ -79,9 +79,9 @@ There are 10 types of people: those who understand binary those who don't and th
 There are 10 types of people: those who understand trinary those who don't and those who have never heard of it.
 The best thing about a Boolean is even if you are wrong you are only off by a bit.
 A good programmer is someone who always looks both ways before crossing a one-way street.
-A programmer crashes a car at the bottom of a hill a bystander asks what happened he says \No idea. Let's push it back up and try again\.
+A programmer crashes a car at the bottom of a hill a bystander asks what happened. He says "No idea. Let's push it back up and try again".
 Number of days since I have encountered an array index error: -1.
-Microsoft hold a bi-monthly internal \productive week\ where they use Google instead of Bing.
+Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
 Schrodinger's Cat in Web Development: If I don't look at in in Internet Explorer then there's a chance it looks fine.
 Unix is user friendly. It's just very particular about who its friends are.
 An SEO expert walks into a bar bars pub public house Irish pub tavern bartender beer liquor wine alcohol spirits...
