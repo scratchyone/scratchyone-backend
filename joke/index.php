@@ -1,7 +1,7 @@
 <?php
 if(isset($_GET['cache']) == "") 
 { 
-header('Location: https://backend.scratchyone.com/joke/?cache='.rand());
+//header('Location: https://backend.scratchyone.com/joke/?cache='.rand());
 }
 header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
 header("Cache-Control: post-check=0, pre-check=0", false);
