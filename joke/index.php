@@ -31,7 +31,10 @@ $font = 'arial.ttf';
 
 
 // Add the text
-imagettftext($im, 23, 0, 10, 40, $black, $font, $text);
+$between = substr($text, 0, 95);
+imagettftext($im, 23, 0, 10, 40, $black, $font, $between);
+$between = substr($text, 95, strlen($text));
+imagettftext($im, 23, 0, 10, 70, $black, $font, $between);
 
 // Using imagepng() results in clearer text compared with imagejpeg()
 imagepng($im);
