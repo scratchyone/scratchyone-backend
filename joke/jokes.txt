@@ -11,7 +11,7 @@ Why did the developer go broke? Because he used up all his cache
 Why did the geek add body { padding-top: 1000px; } to his Facebook profile? He wanted to keep a low profile.
 An SEO expert walks into a bar bars pub tavern public house Irish pub drinks beer alcohol
 I would tell you a UDP joke but you might not get it.
-8 bytes walk into a bar the bartenders asks What will it be? One of them says Make us a double.
+8 bytes walk into a bar the bartenders asks What will it be? One of them says "Make us a double".
 Two bytes meet. The first byte asks Are you ill? The second byte replies No just feeling a bit off.
 Knock knock. Who's there? very long pause...Java.
 There's a band called 1023MB. They haven't had any gigs yet.
